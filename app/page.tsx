@@ -1,3 +1,5 @@
+import { Text } from "thon-ui";
+
 export default function Home() {
-  return <>Hello Word!</>;
+  return <Text variant="lg">Hello Word!</Text>;
 }

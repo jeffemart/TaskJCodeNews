@@ -1,4 +1,5 @@
 import React from "react";
+import 'thon-ui/core/base.css';
 
 type Props = {
   children: React.ReactNode;
